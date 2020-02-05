@@ -1,0 +1,13 @@
+{
+  "touser" : "{{touser}}",
+  "toparty" : "",
+  "totag" : "",
+  "msgtype" : "text",
+  "agentid" : {{agentid}},
+  "text" : {
+    "content" : "{{content}}"
+  },
+  "safe":0,
+  "enable_id_trans": 0,
+  "enable_duplicate_check": 0
+}

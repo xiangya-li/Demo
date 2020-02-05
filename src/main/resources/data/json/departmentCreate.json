@@ -1,0 +1,8 @@
+{
+  "name": "{{name}}",
+  "name_en": "LXY",
+  "parentid": {{parentid}},
+  "order": 1,
+  "id": {{id}}
+
+}
